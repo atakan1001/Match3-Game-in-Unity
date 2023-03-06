@@ -1,0 +1,40 @@
+{
+  "ExternalFunctions": [
+    {
+      "Name": "Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle::CheckWriteAndThrowNoEarlyOut_Injected",
+      "FullName": "Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle.CheckWriteAndThrowNoEarlyOut_Injected(ref Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle handle) -> void_b8582670f79269075d32f191bad67123"
+    },
+    {
+      "Name": "#dllimport:BoundedBiharmonicWeightsModule|Bbw",
+      "FullName": "UnityEditor.U2D.Animation.BoundedBiharmonicWeightsGenerator.Bbw(int iterations, System.IntPtr vertices, int vertexCount, int originalVertexCount, System.IntPtr indices, int indexCount, System.IntPtr controlPoints, int controlPointsCount, System.IntPtr boneEdges, int boneEdgesCount, System.IntPtr pinIndices, int pinIndexCount, System.IntPtr weights) -> int"
+    },
+    {
+      "Name": "Unity.Collections.LowLevel.Unsafe.UnsafeUtility::Malloc",
+      "FullName": "Unity.Collections.LowLevel.Unsafe.UnsafeUtility.Malloc(long size, int alignment, Unity.Collections.Allocator allocator) -> void*_b8582670f79269075d32f191bad67123"
+    },
+    {
+      "Name": "Unity.Jobs.LowLevel.Unsafe.JobsUtility::get_IsExecutingJob",
+      "FullName": "Unity.Jobs.LowLevel.Unsafe.JobsUtility.get_IsExecutingJob() -> bool_b8582670f79269075d32f191bad67123"
+    },
+    {
+      "Name": "Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle::CheckReadAndThrowNoEarlyOut_Injected",
+      "FullName": "Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle.CheckReadAndThrowNoEarlyOut_Injected(ref Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle handle) -> void_b8582670f79269075d32f191bad67123"
+    },
+    {
+      "Name": "Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle::Create_Injected",
+      "FullName": "Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle.Create_Injected(ref Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle ret) -> void_b8582670f79269075d32f191bad67123"
+    },
+    {
+      "Name": "Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle::GetTempMemoryHandle_Injected",
+      "FullName": "Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle.GetTempMemoryHandle_Injected(ref Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle ret) -> void_b8582670f79269075d32f191bad67123"
+    },
+    {
+      "Name": "Unity.Burst.LowLevel.BurstCompilerService::Log",
+      "FullName": "Unity.Burst.LowLevel.BurstCompilerService.Log(void* userData, Unity.Burst.LowLevel.BurstCompilerService.BurstLogType logType, byte* message, byte* filename, int lineNumber) -> void_b8582670f79269075d32f191bad67123"
+    },
+    {
+      "Name": "burst_abort",
+      "FullName": "unused.burst_abort(System.String errorId, System.String message) -> void"
+    }
+  ]
+}

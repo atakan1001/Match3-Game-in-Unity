@@ -1,0 +1,2 @@
+UnityEngine.WebCamTexture,WebCamTexture class is used but Camera Usage Description is empty in Player Settings.
+UnityEngine.Microphone,Microphone class is used but Microphone Usage Description is empty in Player Settings.
